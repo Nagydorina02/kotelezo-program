@@ -1,8 +1,7 @@
 # Könyvnyilvántartó program
 
 ## Leírás
-
-Ez a projekt egy egyszerű Python alapú könyvnyilvántartó rendszer.
+A harmadik példát választottam, tehát egy saját mini könyvnyilvántartó rendszert készítettem.
 
 A program lehetővé teszi:
 
